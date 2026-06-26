@@ -1,4 +1,4 @@
-# ReachOut — Chrome Extension (built, v0.0.5)
+# ReachOut — Chrome Extension (built, v0.0.6)
 
 Production build of the **ReachOut** Chrome extension (unpacked, Manifest V3),
 published from the build output for distribution.
@@ -14,4 +14,4 @@ published from the build output for distribution.
 `git pull` (or re-download the ZIP), then click **Reload** on the ReachOut
 card in `chrome://extensions`.
 
-_Built 2026-06-26T09:01:42Z_
+_Built 2026-06-26T09:12:39Z_
